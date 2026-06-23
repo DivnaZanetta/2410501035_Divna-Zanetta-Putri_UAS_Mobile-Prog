@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_pencarian"
+        android:icon="@drawable/ic_search"
+        android:title="Pencarian"/>
+    <item
+        android:id="@+id/nav_favorit"
+        android:icon="@drawable/ic_favorite"
+        android:title="Favorit"/>
+</menu>
