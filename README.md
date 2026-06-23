@@ -1,72 +1,40 @@
-# 🌿 Flora Fauna App
-
-Aplikasi Android edukasi yang menyajikan informasi mengenai **hewan dan tumbuhan endemik Indonesia** dengan tampilan modern, ringan, dan mudah digunakan.
-
 ## Identitas Mahasiswa
 
-- Nama: Dian Utami
-- NIM: 2410501001
-- Program Studi: D3 Sistem Informasi
-- Mata Kuliah: Praktikum Mobile Programming
+- Nama : Divna Zanetta Putri
+- NIM : 2410501035
+- Program Studi : D3 Sistem Informasi
+- Mata Kuliah : Praktikum Mobile Programming
 
-## Deskripsi Aplikasi
+## Gambaran Aplikasi
 
-Flora Fauna adalah aplikasi mobile yang dirancang untuk memberikan informasi mengenai kekayaan biodiversitas Indonesia, khususnya hewan dan tumbuhan endemik.
+Ini merupakan aplikasi edukasi berbasis Android yang menyajikan data flora dan fauna endemik Indonesia. Pengguna dapat melihat informasi spesies, melakukan pencarian data, serta menyimpan data favorit untuk diakses kembali.
 
-Aplikasi ini menyajikan data secara terstruktur dengan tampilan yang interaktif dan user-friendly, sehingga memudahkan pengguna dalam mengenali flora dan fauna Indonesia.
+## Fitur
 
-## Fitur Aplikasi
+- Menampilkan daftar hewan endemik
+- Menampilkan daftar tumbuhan endemik
+- Halaman detail informasi
+- Fitur pencarian
+- Daftar favorit
+- Profil aplikasi
+- Light Mode dan Dark Mode
 
-- - Menampilkan data hewan dan tumbuhan endemik Indonesia
-- - Pencarian data secara real-time
-- - Fitur Favorit 
-- - Penyimpanan lokal menggunakan ROOM Database
-- - Integrasi data menggunakan Retrofit (API)
-- - UI modern berbasis Material Design
-
-## Teknologi yang Digunakan
+## Teknologi
 
 - Java
 - Android Studio
-- Retrofit (Networking API)
+- Retrofit
 - ROOM Database
 - Material Design Components
 
-## Tampilan Aplikasi
+## Menjalankan Project
 
-### Splash Screen
-![Splash](screenshot/splash.png)
+1. Clone repository.
+2. Buka menggunakan Android Studio.
+3. Tunggu proses Gradle Sync.
+4. Jalankan pada emulator atau perangkat Android.
+5. Gunakan aplikasi sesuai kebutuhan.
 
-### Home Hewan
-![Home Hewan](screenshot/homehewan.png)
+## Tujuan
 
-### Home Tumbuhan
-![Home Tumbuhan](screenshot/hometumbuhan.png)
-
-### Detail Screen
-![Detail](screenshot/detailscreen.png)
-
-### Search
-![Search](screenshot/search.png)
-
-### Favorite
-![Favorite](screenshot/favscreen.png)
-
-### Profile
-![Profile](screenshot/profile.png)
-
-### Light Mode
-![Light Mode](screenshot/lightmode.png)
-
-### Dark Mode
-![Dark Mode](screenshot/darkmode.png)
-
-## Fitur:
-- Splash Screen
-- Home (Hewan Endemik)
-- Home (Tumbuhan Endemik)
-- Detail Data
-- Pencarian
-- Favorit
-- Profil / Tentang
-- Dark Mode/Light Mode
+Project ini dibuat untuk memenuhi tugas UAS Praktikum Mobile Programming sekaligus menerapkan pengembangan aplikasi Android menggunakan Java, API, dan database lokal.
